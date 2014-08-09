@@ -1,0 +1,15 @@
+.button { 
+		display: flex;
+        -moz-user-select: none; 
+        -webkit-user-select: none; 
+		border: 1px solid black;
+		border-radius: 10px;
+		cursor: pointer;
+		;
+		font-size: 30;
+		width: 10%;
+		justify-content: space-around;
+		background-color: yellow;
+		margin:auto;
+		padding:0.4% ;
+} 
